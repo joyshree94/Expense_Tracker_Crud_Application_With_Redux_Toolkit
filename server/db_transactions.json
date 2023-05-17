@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "name": "from Youtube",
+      "amount": "10",
+      "type": "income",
+      "id": 1
+    },
+    {
+      "name": "from google",
+      "amount": "2000",
+      "type": "income",
+      "id": 2
+    },
+    {
+      "name": "laravel company",
+      "amount": "4500",
+      "type": "income",
+      "id": 6
+    }
+  ]
+}
